@@ -2,4 +2,5 @@ zheshihenhaode
 woshi shui wozainali ,woyao 
 ganshenme
 zhe shi zhen de dui me
+alicechen var a=document.getElementByID
 
