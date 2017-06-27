@@ -4,4 +4,5 @@ ganshenme
 zhe shi zhen de dui me
 alicechen var a=document.getElementByID
 zhendebudong zhedoushishenme 
+zhenshimafan damafan,jiushini wang
 
